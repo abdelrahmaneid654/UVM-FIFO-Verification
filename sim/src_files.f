@@ -1,0 +1,16 @@
+../tb/fifo_seq_item.sv
+../sva/fifo_sva.sv
+../tb/fifo_config.sv
+../tb/fifo_sqr.sv
+../tb/fifo_driver.sv
+../tb/fifo_mon.sv
+../tb/fifo_agent.sv
+../tb/fifo_sb.sv
+../tb/fifo_coverage.sv
+../tb/fifo_env.sv
+../tb/read_only_seq.sv
+../tb/write_only_seq.sv
+../tb/write_read_seq.sv
+../tb/rst_seq.sv
+../tb/fifo_test.sv
+../tb/top.sv
